@@ -1,0 +1,7 @@
+2018-10-10 11:01:43,063  INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.0.12.Final
+2018-10-10 11:01:58,845  INFO  com.batian.aop.LogAop - 请求开始
+2018-10-10 11:03:43,348  INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.0.12.Final
+2018-10-10 11:04:09,163  INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.0.12.Final
+2018-10-10 11:06:38,404  INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.0.12.Final
+2018-10-10 11:06:49,238  INFO  com.batian.aop.LogAop - 您的请求开始执行!
+2018-10-10 11:06:49,244  INFO  com.batian.aop.LogAop - 您的请求已经结束！
